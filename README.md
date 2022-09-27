@@ -15,9 +15,9 @@ To understand data structure let's use an example. When a program (suppose, the 
     alt="Introduction of Data Structure" />
 </p>
 
-**Structure in simple words:** Suppose an application, where users purchase railway tickets online. It has to process the ticket request which came first. Suppose total seats of a train is 10. Now, 11 people have requested for a seat. The application have to accept only first 10 request and reject the last one. So, there the application have to use First In First Out (FIFO) structure to find out which 10 users will get the ticket. There structure means a set of rules that holds the data together.
+**Structure in simple words:** Suppose an application, where users purchase railway tickets online. It has to process the ticket request which came first. Suppose total seats of a train is 10. Now, 11 people have requested for a seat. The application have to accept only first 10 request and reject the last one. So, there the application have to use First In First Out (FIFO) structure to find out which 10 users will get the ticket. There structure means a set of rules that holds the data together.<sup>[3]</sup>
 
-`So, we can say arranging data in a set of rules is data structure.`<sup>[3]</sup> For example array, set, object in javascript, dictionary and tuple in python, etc. are data structures. Each of the data structure has its own rules; how data will be stored, retrieved, modified, deleted is different in different data structure.
+`So, we can say arranging data in a set of rules is data structure.` For example array, set, object in javascript, dictionary and tuple in python, etc. are data structures. Each of the data structure has its own rules; how data will be stored, retrieved, modified, deleted is different in different data structure.
 
 ### Classification of Data Structure
 
