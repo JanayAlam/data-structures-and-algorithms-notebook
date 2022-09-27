@@ -17,7 +17,7 @@ To understand data structure let's use an example. When a program (suppose, the 
 
 **Structure in simple words:** Suppose an application, where users purchase railway tickets online. It has to process the ticket request which came first. Suppose total seats of a train is 10. Now, 11 people have requested for a seat. The application have to accept only first 10 request and reject the last one. So, there the application have to use First In First Out (FIFO) structure to find out which 10 users will get the ticket. There structure means a set of rules that holds the data together.
 
-`So, we can say arranging data in a set of rules is data structure. For example array, set, object in javascript, dictionary and tuple in python, etc. are data structures. Each of the data structure has its own rules; how data will be stored, retrieved, modified, deleted is different in different data structure.`
+`So, we can say arranging data in a set of rules is data structure.`<sup>[3]</sup> For example array, set, object in javascript, dictionary and tuple in python, etc. are data structures. Each of the data structure has its own rules; how data will be stored, retrieved, modified, deleted is different in different data structure.
 
 ### Classification of Data Structure
 
@@ -28,7 +28,7 @@ There are mainly two types of data structure. Linear and Non-linear data structu
     alt="Classification of Data Structure" />
 </p>
 
-**Linear Data Structure:** Linear data structure is the data structure where data elements are stored next to each other. In other words, linear data structure is the data structure in which elements are arranged sequentially or linearly^[1].
+**Linear Data Structure:** Linear data structure is the data structure where data elements are stored next to each other. In other words, linear data structure is the data structure in which elements are arranged sequentially or linearly.<sup>[1]</sup>
 
 ## Introduction to Algorithms
 
